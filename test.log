@@ -1,0 +1,48 @@
+2020-12-23 14:15:25 INFO  PlaceOrder:59 - Test Started
+2020-12-23 14:15:25 INFO  Loginpage:29 - enter username : standard_user
+2020-12-23 14:15:26 INFO  Loginpage:32 - enter password : secret_sauce
+2020-12-23 14:15:26 INFO  Loginpage:35 - click on Login button 
+2020-12-23 14:15:29 INFO  PlaceOrder:68 - Test started : 
+2020-12-23 14:15:29 INFO  InventoryPage:47 - Click on Sort Dropdown
+2020-12-23 14:15:29 INFO  InventoryPage:50 - Select Low to high price
+2020-12-23 14:15:29 INFO  InventoryPage:58 - add product label in listSauce Labs Onesie
+2020-12-23 14:15:29 INFO  InventoryPage:61 - add product price in list7.99
+2020-12-23 14:15:29 INFO  InventoryPage:64 - click on add to cart button
+2020-12-23 14:15:30 INFO  InventoryPage:58 - add product label in listSauce Labs Bike Light
+2020-12-23 14:15:30 INFO  InventoryPage:61 - add product price in list9.99
+2020-12-23 14:15:30 INFO  InventoryPage:64 - click on add to cart button
+2020-12-23 14:15:30 INFO  InventoryPage:71 - get text of cart icon2
+2020-12-23 14:15:30 INFO  InventoryPage:76 - Get product list
+2020-12-23 14:15:30 INFO  InventoryPage:81 - Get product price
+2020-12-23 14:15:30 INFO  InventoryPage:86 - click on cart icon
+2020-12-23 14:15:31 INFO  CartPage:37 - get products label list
+2020-12-23 14:15:31 INFO  CartPage:40 - products label listSauce Labs Onesie
+2020-12-23 14:15:31 INFO  CartPage:40 - products label listSauce Labs Bike Light
+2020-12-23 14:15:31 INFO  CartPage:57 - compare lists[Sauce Labs Onesie, Sauce Labs Bike Light] And [Sauce Labs Onesie, Sauce Labs Bike Light]
+2020-12-23 14:15:31 INFO  CartPage:47 - get products price list
+2020-12-23 14:15:31 INFO  CartPage:50 - products price :7.99
+2020-12-23 14:15:31 INFO  CartPage:50 - products price :9.99
+2020-12-23 14:15:31 INFO  CartPage:57 - compare lists[7.99, 9.99] And [7.99, 9.99]
+2020-12-23 14:15:31 INFO  CartPage:62 - click on Checkout button
+2020-12-23 14:15:32 INFO  CheckStepOnePage:35 - enter firstnameGirdhari
+2020-12-23 14:15:32 INFO  CheckStepOnePage:41 - enter lastnameGarg
+2020-12-23 14:15:33 INFO  CheckStepOnePage:47 - enter zipcode282001
+2020-12-23 14:15:33 INFO  CheckStepOnePage:53 - click on continue button
+2020-12-23 14:15:34 INFO  OverviewPage:37 - payment info is displayed
+2020-12-23 14:15:34 INFO  OverviewPage:42 - Shipping info is displayed
+2020-12-23 14:15:34 INFO  OverviewPage:47 - Item Total info is displayed
+2020-12-23 14:15:34 INFO  OverviewPage:52 - click on finish button
+2020-12-23 14:15:35 INFO  CheckoutCompletePage:28 - success message is displayed
+2020-12-23 14:15:36 INFO  CheckoutCompletePage:28 - success message is displayed
+2020-12-23 14:15:36 INFO  SideBar:38 - Click on OpenMenu Icon
+2020-12-23 14:15:36 INFO  SideBar:33 - Click on logout link
+2020-12-23 14:15:37 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-12-23 14:15:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-12-23 14:15:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-12-23 14:15:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-12-23 14:15:37 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Abhinav%20Garg/.m2/repository/com/relevantcodes/extentreports/2.40.2/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-12-23 14:15:38 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-12-23 14:15:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-12-23 14:15:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-12-23 14:15:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-12-23 14:15:38 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Abhinav%20Garg/.m2/repository/com/relevantcodes/extentreports/2.40.2/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
